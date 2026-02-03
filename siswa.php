@@ -227,8 +227,8 @@
                                             <th><?php echo $d['nama'] ?></th>
                                             <th><?php echo $d['jk'] ?></th>
                                             <th><?php echo $d['tgl_lahir'] ?></th>
-                                            <th><?php echo $d['kelas'] ?></th>
-                                            <th><?php echo $d['jurusan'] ?></th>
+                                            <th><?php echo $d['id_kelas'] ?></th>
+                                            <th><?php echo $d['id_jurusan'] ?></th>
                                             <th><?php echo $d['keterangan'] ?></th>
                                             <th>
                                                 <a href="#" class="btn btn-success">Edit</a>
